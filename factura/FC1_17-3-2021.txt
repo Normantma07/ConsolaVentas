@@ -1,0 +1,14 @@
+Factura de compra
+Supermercado don Diego
+-----------------------
+pollo---5x$5.0 = $25.0
+	Total de factura: $24.25
+-----------------------
+-Se aplico un descuento del 3% al
+total porque la compra excedia los $20
+Factura de compra
+Supermercado don Diego
+-----------------------
+dulces---7x$0.8 = $5.6000000000000005
+	Total de factura: $5.6
+-----------------------

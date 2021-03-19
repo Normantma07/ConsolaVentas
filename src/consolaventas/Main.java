@@ -16,7 +16,7 @@ import consolaventas.log;
  *
  * @author Cesia Coto
  */
-public class Main {
+public class main {
 
     public static void main(String[] args) {
         login l = new login();
@@ -37,7 +37,6 @@ public class Main {
         catalogo[7] = new Catalogo(8, "carne", 2.75, 30);
         catalogo[8] = new Catalogo(9, "gaseosa", 1.8, 180);
         catalogo[9] = new Catalogo(10, "desechable", 3.25, 50);
-
         Scanner t = new Scanner(System.in);
         int op = 0;
         do {
@@ -59,11 +58,11 @@ public class Main {
                                 break;
                             case "Vendedor":
                                 b.crearBitacora(l, lo);
-                                m2.MenuAdmin(l, v, catalogo, contVentas, lo);
+                                m2.MenuVendedor(l, v, catalogo, contVentas, lo);
                                 break;
                             case "Invitado":
                                 b.crearBitacora(l, lo);
-                                m2.MenuAdmin(l, v, catalogo, contVentas, lo);
+                                m2.MenuInvitado(l, v, catalogo, contVentas, lo);
                                 break;
                             default:
                                 System.out.println("Error, no se encontro un tipo de usuario valido");

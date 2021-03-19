@@ -1,0 +1,15 @@
+Factura de compra
+Supermercado don Diego
+-----------------------
+aceite---5x$3.0 = $15.0
+	Total de factura: $15.0
+-----------------------
+Factura de compra
+Supermercado don Diego
+-----------------------
+pollo---4x$5.0 = $20.0
+carne---7x$2.75 = $19.25
+	Total de factura: $38.0725
+-----------------------
+-Se aplico un descuento del 3% al
+total porque la compra excedia los $20

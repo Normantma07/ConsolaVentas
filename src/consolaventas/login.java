@@ -77,11 +77,11 @@ public class login {
             BufferedReader br = new BufferedReader(in);
 
             //Leer usuario y contraseña
-            System.out.println("Bienvenido al sistema de ventas.");
+            System.out.println("Bienvenido al sistema de ventas Don Diego.");
             System.out.println("Favor ingresar credenciales.");
-            System.out.print("Usuario: ");
+            System.out.print("Ingresar Usuario: ");
             this.usuario = scn.nextLine();
-            System.out.print("Contrasena: ");
+            System.out.print("Ingresar Contrasena: ");
             this.contrasena = scn.nextLine();
             if(this.primerInicio)
             {

@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package consolaventas;
-
 /**
  *
  * @author Cesia Coto
