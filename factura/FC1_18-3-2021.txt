@@ -13,3 +13,9 @@ carne---7x$2.75 = $19.25
 -----------------------
 -Se aplico un descuento del 3% al
 total porque la compra excedia los $20
+Factura de compra
+Supermercado don Diego
+-----------------------
+pollo---2x$5.0 = $10.0
+	Total de factura: $10.0
+-----------------------

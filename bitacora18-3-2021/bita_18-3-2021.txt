@@ -8,3 +8,8 @@ entra invitado 10:32:43 18-3-2021
 sale invitado 10:33:0 18-3-2021
 entra admin 11:14:18 18-3-2021
 sale admin 11:15:44 18-3-2021
+entra admin 19:32:22 18-3-2021
+entra admin 19:51:27 18-3-2021
+sale admin 19:56:26 18-3-2021
+entra vendedor 19:57:17 18-3-2021
+sale vendedor 20:1:4 18-3-2021
